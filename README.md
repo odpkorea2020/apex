@@ -1,6 +1,6 @@
 # Application Express
 ### Workspace 
-* [Cloud Apex Workspace (APEX)](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=103:1:614895557136653:::::)
+* [Cloud Apex Workspace (APEX)](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/apex)
 * [Oracle's Free Workspace(APEX)](https://apex.oracle.com/pls/apex/)
   * Environment:	https://apex.oracle.com/pls/apex/
   * Workspace:	wy_apex
