@@ -8,7 +8,7 @@
   * 개발자  접속정보 : demo/qwER12#$
 * 공식 문서 (APEX 19.2) : https://docs.oracle.com/en/database/oracle/application-express/19.2/
 * 무료 웍스페이스 신청 : 직접 요청 링크 : https://apex.oracle.com/pls/apex/f?p=4700&p_lang=ko  
-
+* APEX Universal Theme : https://apex.oracle.com/pls/apex/f?p=42:100::::::
 ### Demo Apps
   * 접속 정보 : demo/demo  
   * [Chart Demo](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=103:LOGIN::::::)
