@@ -9,8 +9,10 @@
 * 공식 문서 (APEX 19.2) : https://docs.oracle.com/en/database/oracle/application-express/19.2/
 * 무료 웍스페이스 신청 : 직접 요청 링크 : https://apex.oracle.com/pls/apex/f?p=4700&p_lang=ko  
 ### Demo Apps
-  * [Movie App Demo](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=102)
-    * youtube : https://www.youtube.com/watch?v=VlYa5xkF_kE&t=60s
+  * 접속 정보 : demo/demo
+  * [Simple App Wizard](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=101:1:)
   * [Chart Demo](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=103:LOGIN::::::)
-    * 접속 정보 : demo/demo
+  * 참조 : Apex Concept & Movie App Demo
+    * youtube : https://www.youtube.com/watch?v=VlYa5xkF_kE&t=60s
+   
   
