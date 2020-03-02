@@ -11,7 +11,7 @@
 * APEX Universal Theme : https://apex.oracle.com/pls/apex/f?p=42:100::::::
 ### Demo Apps
   * 접속 정보 : demo/demo  
-  * 1. [Simple Demo](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=101:LOGIN::::::)
+  * 1. [Simple Demo](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=101)
   * 2. [Chart Demo](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=103:LOGIN::::::)
   * 3. [My_Mobile_Application - Mobile & Desktop](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=102:1:) 
   * 4. [Simple App Wizard - Access Control ](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=101:1:)
