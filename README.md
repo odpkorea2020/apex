@@ -18,6 +18,7 @@
     * youtube : https://www.youtube.com/watch?v=VlYa5xkF_kE&t=60s
    
 ### UI Component
-* * APEX Universal Theme : https://apex.oracle.com/pls/apex/f?p=42:100:::::
+* [APEX Universal Theme](https://apex.oracle.com/pls/apex/f?p=42:100:::::)
 * [UI Component](https://apex.oracle.com/pls/apex/f?p=42:100::::::)
+* [Announcing Oracle Data Platform Services Launch/February 10th, 2020  ](https://otube.oracle.com/media/OSPA+Webcast+Series+-+Announcing+Oracle+Data+Platform+Services+Launch/0_pet67hpf)
   
