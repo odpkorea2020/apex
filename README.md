@@ -21,4 +21,10 @@
 * [APEX Universal Theme](https://apex.oracle.com/pls/apex/f?p=42:100:::::)
 * [UI Component](https://apex.oracle.com/pls/apex/f?p=42:100::::::)
 * [Announcing Oracle Data Platform Services Launch/February 10th, 2020  ](https://otube.oracle.com/media/OSPA+Webcast+Series+-+Announcing+Oracle+Data+Platform+Services+Launch/0_pet67hpf)
+
+## Github
+* Awesome Oracle APEX (Application Express): https://github.com/Dani3lSun/awesome-orclapex
+* Oracle HOL : https://github.com/oracle/learning-library/tree/master/workshops/apex-en
+* JSTree Item Plugin for Oracle Application Express : https://github.com/commi235/mk-apex-jstree
+
   
