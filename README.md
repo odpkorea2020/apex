@@ -25,6 +25,7 @@
 ## Github
 * Awesome Oracle APEX (Application Express): https://github.com/Dani3lSun/awesome-orclapex
 * Oracle HOL : https://github.com/oracle/learning-library/tree/master/workshops/apex-en
+* [Oracle HOL in-Depth]https://github.com/oracle/learning-library/tree/master/developer-library/apex
 * JSTree Item Plugin for Oracle Application Express : https://github.com/commi235/mk-apex-jstree
 
   
