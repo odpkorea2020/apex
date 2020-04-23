@@ -111,7 +111,7 @@
 
 14. 'Page Designer'의 오른쪽에 위치하는 상단에 위치하는 **Save** 버튼을 클릭합니다. 
 
-    ![](images/2/new-list-of-values.png)
+    ![](screenshot/HOL01-2-02.png)
 
 15. 이제 런타임 환경으로 돌아옵니다. 브라우저를 리프레쉬하고 다시 레코드의 'edit icon'을 클릭하고 **Status** 상태의 변경 상태를 확인합니다. 
 
