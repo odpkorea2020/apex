@@ -12,7 +12,7 @@
 
 3. 1번 행에서 '**Start Date**'를 선택합니다. 그리고 2번 행에서 '**End Date**'를 선택합니다. 그리고 '**Apply**'를 클릭합니다. 
 
-    ![](images/2/new-sort-action.png)
+    ![](screenshot/HOL01-2-01.png)
     ![](images/2/new-sort.png)
 
 4. 이제 리포트를 저장할 순서입니다. '**Actions**' 선택하고, 메뉴에서 '**Report**'를 선택합니다. 그리고 '**Save Report**'를 클릭합니다.
