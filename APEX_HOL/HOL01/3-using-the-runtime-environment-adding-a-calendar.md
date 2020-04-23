@@ -36,7 +36,8 @@ TODO.
 5. 'Clear Cache'를 '**3**'으로 설정합니다.
 6. '**OK**' 버튼을 클릭합니다. 그리고 페이지의 오른쪽 상단에 위치하는 파란색 바탕의 동그라미 세모 아이콘(**Save and Run**) 버튼을 클릭합니다.
 
-    ![](images/3/update-form.png)
+    ![](screenshot/HOL01-2-03.png)
+    ![](screenshot/HOL01-2-04.png)
 
     ![](images/3/updated-form-display.png)  
     
