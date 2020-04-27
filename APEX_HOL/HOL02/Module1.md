@@ -16,7 +16,8 @@ APEX 19.2가 설치된 Oracle 데이터베이스에서 이 랩을 실행할 수 
 
 ---
 <!--## 옵션 1 : Oracle Autonomous Database -->
-##<div id="opt_1"> 옵션 1 : Oracle Autonomous Database</div>
+## <div id="opt_1"> 옵션 1 : Oracle Autonomous Database</div>
+
 이 파트에서는 Oracle Cloud 트라이얼 계정을 생성할 것입니다. 서비스에 가입한 후 Autonomouse Transaction Processing 데이터베이스를 생성할 것입니다. 그리고 이 프로세스의 마지막 단계에서 Oracle APEX를 프로비저닝 합니다.
 
 1. [무료계정 생성을 위해 이 링크](https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType)를 클릭하세요. 등록 절차를 완료하면 $300 크레딧과 이번 실습을 위한 ***Always Free*** 서비스들을 제공받게 됩니다. 그리고 Oracle 클라우드의 남은 크레딧은 계속해서 사용할 수 있습니다. Always Free 서비스는 트라이얼 기간이 만료가 된 이후에도 계속 동작 됩니다.
