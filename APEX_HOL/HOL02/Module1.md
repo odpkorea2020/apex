@@ -1,6 +1,6 @@
 # 모듈 1 : APEX Workspace 생성
-## 생성 방법 1 - Always Free Tier  [바로가기](#opt_1)
-## 생성 방법 2 - Free Workspace  [바로가기](#opt_2)
+* 생성 방법 1 - Always Free Tier  [바로가기](#opt_1)
+* 생성 방법 2 - Free Workspace  [바로가기](#opt_2)
 Oracle Application Express (APEX)는 Oracle 데이터베이스의 기능으로 Autonomous Data Warehouse(ADW)와 Autonomous Transaction Processing(ATP) 서비스에 포함되어 있습니다. APEX 시작을 위해 실습에 사용할 Oracle 데이터베이스를 결정한 다음 해당 데이터베이스에 APEX의 Workspace를 생성합니다.
 
 만약 APEX 19.2 Workspace를 이미 생성해 뒀으면 이 과정은 건너뛰고 모듈 2로 바로 이동하시면 됩니다.
@@ -13,8 +13,9 @@ APEX Workspace는 APEX 애플리케이션을 정의하는 논리적인 도메인
 
 APEX 19.2가 설치된 Oracle 데이터베이스에서 이 랩을 실행할 수 있습니다. ***Always Free*** Oracle Autonomous Databse 에서 제공하는 **Oracle APEX** 또는 **apex.oracle.com** 의 무료 서비스 그리고 APEX 19.2가 설치된 Oracle 데이터베이스, 타사 클라우드, Oracle XE 또는 Oracle VirtualBox App Dev VM과 APEX 19.2를 노트북에 설치해서 APEX 를 실행할 수 있습니다.
 
+---
 <!--## 옵션 1 : Oracle Autonomous Database -->
-<div id="opt_1">## 옵션 1 : Oracle Autonomous Database</div>
+##<div id="opt_1"> 옵션 1 : Oracle Autonomous Database</div>
 이 파트에서는 Oracle Cloud 트라이얼 계정을 생성할 것입니다. 서비스에 가입한 후 Autonomouse Transaction Processing 데이터베이스를 생성할 것입니다. 그리고 이 프로세스의 마지막 단계에서 Oracle APEX를 프로비저닝 합니다.
 
 1. [무료계정 생성을 위해 이 링크](https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType)를 클릭하세요. 등록 절차를 완료하면 $300 크레딧과 이번 실습을 위한 ***Always Free*** 서비스들을 제공받게 됩니다. 그리고 Oracle 클라우드의 남은 크레딧은 계속해서 사용할 수 있습니다. Always Free 서비스는 트라이얼 기간이 만료가 된 이후에도 계속 동작 됩니다.
@@ -102,9 +103,9 @@ APEX 19.2가 설치된 Oracle 데이터베이스에서 이 랩을 실행할 수 
     ![](images/log-in-to-workspace.png)
 
     
-
+---
 <!-- ## 옵션2 : apex.oracle.com -->
-<div id="opt_2">## 옵션 2 : apex.oracle.com</div>
+## <div id="opt_2"> 옵션 2 : apex.oracle.com</div>
 
 본인이 만들고자 하는 workspace에 대한 세부사항을 제공한 후 승인 이메일 기다리는 간단한 방법으로 apex.oracle.com 에 등록할 수 있습니다.
 
