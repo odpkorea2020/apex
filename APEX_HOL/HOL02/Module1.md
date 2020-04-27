@@ -1,6 +1,7 @@
 # 모듈 1 : APEX Workspace 생성
 * 생성 방법 1 - Always Free Tier  [바로가기](#opt_1)
 * 생성 방법 2 - Free Workspace  [바로가기](#opt_2)
+---
 Oracle Application Express (APEX)는 Oracle 데이터베이스의 기능으로 Autonomous Data Warehouse(ADW)와 Autonomous Transaction Processing(ATP) 서비스에 포함되어 있습니다. APEX 시작을 위해 실습에 사용할 Oracle 데이터베이스를 결정한 다음 해당 데이터베이스에 APEX의 Workspace를 생성합니다.
 
 만약 APEX 19.2 Workspace를 이미 생성해 뒀으면 이 과정은 건너뛰고 모듈 2로 바로 이동하시면 됩니다.
